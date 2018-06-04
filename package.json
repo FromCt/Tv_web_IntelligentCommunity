@@ -1,0 +1,25 @@
+{
+  "name": "tv_web_intelligentcommunity",
+  "version": "1.0.0",
+  "description": "tv web 智慧社区",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FromCt/Tv_web_IntelligentCommunity.git"
+  },
+  "keywords": [
+    "tv_web"
+  ],
+  "author": "ct",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FromCt/Tv_web_IntelligentCommunity/issues"
+  },
+  "homepage": "https://github.com/FromCt/Tv_web_IntelligentCommunity#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
